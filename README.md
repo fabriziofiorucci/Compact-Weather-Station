@@ -26,7 +26,7 @@ Used sensors and parts are:
 
 ## Schematics
 
-The circuit can be quickly built on a single layer perfboard. It can be powered by a 12V 2A power supply. The onboard LM7805 generated the 5V voltage required for most components. The BME280 sensor is powered at 3.3v directly from the Wemos D1.
+The circuit can be quickly built on a single layer perfboard. It can be powered by a 12V 2A power supply. The onboard LM7805 generates the 5V voltage required for most components. The BME280 sensor is powered at 3.3v directly from the Wemos D1.
 
 <img src="./pics/weatherstation-schematics.png"/>
 
