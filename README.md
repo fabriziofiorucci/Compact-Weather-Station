@@ -38,6 +38,8 @@ Over-The-Air updates are supported with no need to physically access the Wemos u
 
 The sketch must be configured to point to your MQTT broker and to connect to your WiFi network (see "CUSTOMIZE HERE" sessions)
 
+It relies on https://github.com/SwapBap/PMS for PMS5003 communication
+
 
 ## 3D components
 
