@@ -7,6 +7,7 @@ The weather station is meant to be screwed on a windowsill.
 
 Used sensors and parts are:
 
+- Wemos D1 minicontroller
 - Wind speed: Anemometer with analog voltage output (like https://www.adafruit.com/product/1733)
 - Visible light: GY-30 BH1750 Ambient light sensor module
 - Air quality/pollution: Digital Particle Concentration Laser Sensor PMS5003
