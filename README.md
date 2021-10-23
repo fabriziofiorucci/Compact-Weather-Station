@@ -24,6 +24,7 @@ Used sensors and parts are:
 - Cable glands
 - 2.54mm / 1 inch PVC pipe
 
+This project is on Thingiverse at https://www.thingiverse.com/thing:5027011
 
 ## Schematics
 
