@@ -520,7 +520,7 @@ void loop() {
     mqttClient.publish("weatherstation/light", (char *)String(luxLight).c_str());
   }
 
-  capacitiveRain=analogRead(A0);
+  capacitiveRain=(814-(float)analogRead(A0))/814*100;
   Serial.print("Capacitive rain: ");
   Serial.println(capacitiveRain);
   mqttClient.publish("weatherstation/rain/capacitive", (char *)String(capacitiveRain).c_str());
